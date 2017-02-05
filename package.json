@@ -39,7 +39,7 @@
 	},
 	"homepage": "http://download.github.io/rscroll",
 	"dependencies": {
-		"react": "^0.13.3"
+		"react": "^15.4.2"
 	},
 	"devDependencies": {
 		"jasmine-node": "^1.14.5"
